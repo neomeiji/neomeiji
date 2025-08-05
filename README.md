@@ -44,33 +44,33 @@ So maybe use these for future projects...
 
 # **A dossier on the chosen one** 📓
 
-My name is neomeiji ⚗️🧙🏽‍♂️ ```(Barak)``` and I am a high-ranking Grand Wizard 📜✨ ```(Associate Consultant)```, who currently casts spells 🪄 ```(works)``` at **[Version 1](https://www.version1.com/)**
+My name is neomeiji ⚗️🧙🏽‍♂️ ```(Barak)``` and I'm a high-ranking Grand Wizard 📜✨ ```(Associate Consultant)```, who currently casts spells 🪄 ```(works)``` at **[Version 1](https://www.version1.com/)**
 
 I advocate for the following > **#buildinginpublic #foss #emulation #freedomofknowledge #kaizen #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage #alchemyforall**
 
 My direct focus is on being the best Software Engineer I can be, as I have been trying to break into ~~alchemy~~ tech for over 2 1/2 years now!
 
-I have certifications across AWS, The Linux Foundation and Cisco amongst others, however theory is useless without practice🤺🎯
+I have certifications across AWS, The Linux Foundation and Cisco amongst others, however theory is *useless* without **practice**🤺🎯
 
-Project-based learning leads to ascenscion from the fiery pits of tutorial hell i.e., keep building, my friend 🛐
+Project-based learning leads to ascension from the fiery pits of tutorial hell; so keep building, my friend 🛐
 
 # **What am I developing right now, in the ether?** 🧪
 
-I'm currently in the process of building a Discord Bot 🤖 in C# (they are commonly built using Python), that leverages Azure OpenAI APIs and Azure AI Search; in order to retrieve panels from any manga or comic that the user requests 💻
+I'm currently in the process of building a Discord Bot 🤖 in C# (they are commonly built using Python), that leverages Azure OpenAI APIs, Azure AI Search and potentially web scraping; in order to retrieve panels from any manga or comic that the user requests 💻
 
-I aim to incorporate OOP Principles (the 4 pillars) 🏛️ within this project and any future endeavours moving forward 📈
+I aim to incorporate ```OOP Principles (the 4 pillars) 🏛️``` within this project and any future endeavours moving forward 📈
 
 I intend to publish projects to my GitHub and do so more frequently 👨🏽‍💻
 
-I also want to configure my personal website and get that deployed 🌐
+I also want to compartmentalize my ```custom-built``` personal website into microservices, and then get it deployed 🌐
 
 # **That's cool and all, but does the wizard have any hobbies or interests?**
 
-**Yes yes I'm getting to that, be *<u>patient</u>* young mage...**
+**Yes yes I'm getting to that, be *patient* young mage...**
 
 When I'm not coding or fighting Saruman, I'm an enjoyer of the following:
 
-* Microcontrollers like the ```(M5StickC Plus 2)``` and exploring cool devices like a ```Cyberdeck/RP5/CYD/Ghost Laptop + LoRa Technology📡```
+* Microcontrollers like the ```M5StickC Plus 2``` and exploring cool devices like a ```Cyberdeck/RP5/CYD/ESP32/Ghost Laptop + LoRa Technology 📡```
 
 * Science Fiction Literature:
 ```Asimov | Clarke | Dick 📚```
@@ -79,12 +79,12 @@ When I'm not coding or fighting Saruman, I'm an enjoyer of the following:
 
 * Manga / Comics - I have a decent sized collection (not just Marvel and DC)
 
-* Fragrances - A wizard cannot leave the shadow realm without a spritz
+* Fragrances - A wizard cannot leave the shadow realm without a spritz 
 
-* Watches > I love horology and this quote - "A wizard is never late, nor is he early, he arrives **<u>*precisely*</u>** when he means to." ⌚
+* Watches > I love horology and this quote - "A wizard is never late, nor is he early, he arrives **precisely** when he means to." ⌚
 
 * Motorbikes > Currently riding a ```2021 Honda CB125F```, next bike to buy are any of these: ```Suzuki SV650S, Suzuki SV1000, Honda VFR800, Honda CBR650RR, Kawasaki ZX9R, Yamaha R6 or a Yamaha R1 🏍️```
 
-* Films > I'm an avid film watcher and have seen all sorts, however, my list is longer than the spells I know...
+* Films > I'm an avid film watcher and have seen all sorts, *however*, my list is longer than the spells I know...
 
-* Graphic Design > I'm as rusty as ever but everything you see here is custom baby, WOOHOO!!!
+* Graphic Design > I *love* clean UI/UX and I'm rusty as ever, but everything you see here is custom baby, WOOHOO!!!
