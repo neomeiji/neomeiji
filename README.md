@@ -72,12 +72,14 @@ When I'm not coding or fighting Saruman, I'm an enjoyer of the following:
 
 * Microcontrollers like the ```M5StickC Plus 2``` and exploring cool devices like a ```Cyberdeck/RP5/CYD/ESP32/Ghost Laptop + LoRa Technology 📡```
 
+* Experimenting with Virtual Machines via ```UTM``` (Linux tinkering is done on my M1 Macbook Pro) + ```Daily driving Asahi Linux 🖥️```
+
 * Science Fiction Literature:
 ```Asimov | Clarke | Dick 📚```
 
 * Transhumanism > It both terrifies and excites me 
 
-* Manga / Comics - I have a decent sized collection (not just Marvel and DC)
+* Manga / Comics - I have a decently varied collection (not just Marvel and DC)
 
 * Fragrances - A wizard cannot leave the shadow realm without a spritz 
 
