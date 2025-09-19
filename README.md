@@ -48,7 +48,7 @@ My name is neomeiji ⚗️🧙🏽‍♂️ ```(Barak)``` and I'm a high-ranking
 
 I advocate for the following > **#buildinginpublic #foss #emulation #freedomofknowledge #kaizen #wizardsrule #dumbledoresucks #merlinisoverrated #imthebestmage #alchemyforall**
 
-My direct focus is on being the best Software Engineer I can be, as I have been trying to break into ~~alchemy~~ tech for over 2 1/2 years now!
+My direct focus is on being the best DevOps Engineer I can be, as I have been trying to break into ~~alchemy~~ tech for over 2 1/2 years now!
 
 I have certifications across AWS, The Linux Foundation and Cisco amongst others, however theory is *useless* without **practice**🤺🎯
 
@@ -56,13 +56,15 @@ Project-based learning leads to ascension from the fiery pits of tutorial hell; 
 
 # **What am I developing right now, in the ether?** 🧪
 
-I'm currently in the process of building a Discord Bot 🤖 in C# (they are commonly built using Python), that leverages Azure OpenAI APIs, Azure AI Search and potentially web scraping; in order to retrieve panels from any manga or comic that the user requests 💻
+I'm currently in the process of developing and compartmentalising my ```custom-built``` personal website into microservices; ready for deployment 🌐
 
-I aim to incorporate ```OOP Principles (the 4 pillars) 🏛️``` within this project and any future endeavours moving forward 📈
+This includes a splash-screen loading animation, custom SSL certificate, other cool features and maybe even a wizard-themed game... 👾
+
+While upskilling as a Software Engineer (before I was moved to DevOps), I was building - and plan to finish - a Discord Bot 🤖 in C# (they are commonly built using Python), that leverages Azure OpenAI APIs, Azure AI Search and potentially web scraping; in order to retrieve panels from any manga or comic that the user requests 💻
+
+I aim to incorporate ```OOP Principles (the 4 pillars) 🏛️``` within this project and apply ```best practices``` with any future endeavours moving forward 📈
 
 I intend to publish projects to my GitHub and do so more frequently 👨🏽‍💻
-
-I also want to compartmentalize my ```custom-built``` personal website into microservices, and then get it deployed 🌐
 
 # **That's cool and all, but does the wizard have any hobbies or interests?**
 
@@ -77,7 +79,9 @@ When I'm not coding or fighting Saruman, I'm an enjoyer of the following:
 * Science Fiction Literature:
 ```Asimov | Clarke | Dick 📚```
 
-* Transhumanism > It both terrifies and excites me 
+* Transhumanism > It both terrifies and excites me
+
+* Investing / Trading in the Stock Market 💹 - Always keeping a keen eye on industry trends, commercial awareness and market sentiment
 
 * Manga / Comics - I have a decently varied collection (not just Marvel and DC)
 
@@ -85,8 +89,8 @@ When I'm not coding or fighting Saruman, I'm an enjoyer of the following:
 
 * Watches > I love horology and this quote - "A wizard is never late, nor is he early, he arrives **precisely** when he means to." ⌚
 
-* Motorbikes > Currently riding a ```2021 Honda CB125F```, next bike to buy are any of these: ```Suzuki SV650S, Suzuki SV1000, Honda VFR800, Honda CBR650RR, Kawasaki ZX9R, Yamaha R6 or a Yamaha R1 🏍️```
+* Motorbikes > Currently riding a ```2021 Honda CB125F```, next bike to buy are any of these: ```Suzuki SV650S, Suzuki SV1000S, Honda VFR800, Honda CBR650RR, Kawasaki ZX9R, Yamaha R6 or a Yamaha R1 🏍️```
 
-* Films > I'm an avid film watcher and have seen all sorts, *however*, my list is longer than the spells I know...
+* Films 🎬 > I'm an avid film watcher and have seen all sorts, *however*, my list is longer than the spells I know...
 
-* Graphic Design > I *love* clean UI/UX and I'm rusty as ever, but everything you see here is custom baby, WOOHOO!!!
+* Graphic Design 🖌️ > I *love* clean UI/UX and I'm rusty as ever, but everything you see here is custom baby, WOOHOO!!!
